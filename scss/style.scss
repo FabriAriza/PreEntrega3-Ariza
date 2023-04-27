@@ -1,0 +1,13 @@
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+);
+
+body{background: linear-gradient(#249BBD, #E8EFF1);margin: 0%;  padding: 0%; height: 200vh;}
+.row h1{position: relative; left: 390px; color: white;}
+.card{border:2px solid black; top: 15px;}
+main{color: black;}
